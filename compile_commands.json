@@ -1,0 +1,7 @@
+[
+    {
+        "directory": "/home/shino/software/cuda-convolve",
+        "command": "clang++ --cuda-gpu-arch=sm_60 -std=c++17 convolve.cu",
+        "file": "convolve.cu"
+    }
+]
